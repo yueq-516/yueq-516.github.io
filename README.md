@@ -6,12 +6,6 @@ Welcome to my academic website. This site showcases my research, publications, a
 
 I am a PhD candidate in Information Sciences at the University of Pittsburgh. My research focuses on leveraging machine learning and large language models (LLMs) for flood preparedness in urban navigation.
 
-## Quick Links
-
-- **[Home](/)** – About me and research interests
-- **[Publications](/publications/)** – My peer-reviewed publications
-- **[CV](/cv/)** – My curriculum vitae
-
 ## Research Interests
 
 - Machine learning for urban mobility
