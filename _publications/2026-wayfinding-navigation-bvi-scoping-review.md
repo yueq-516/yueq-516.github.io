@@ -7,6 +7,7 @@ permalink: /publication/2026-wayfinding-navigation-bvi-scoping-review
 excerpt: 'Accepted manuscript on wayfinding and navigation approaches supporting mobility for people who are blind or visually impaired'
 date: 2026-06-01
 venue: 'Disability and Rehabilitation: Assistive Technology'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/17483107.2026.2685237'
 citation: 'Yue Qin*, Yutong Zhang*, Nihal Desai*, Hassan A. Karimi, Kuo-Ting Huang, and Na Du. (2026). "Wayfinding and navigation approaches supporting mobility for people who are blind or visually impaired: A scoping review." <i>Disability and Rehabilitation: Assistive Technology</i>. Accepted manuscript.<br />* Equal contribution.'
 ---
 
