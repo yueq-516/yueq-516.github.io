@@ -1,18 +1,16 @@
-# Yue Qin's Personal Website
+# Yue Qin’s Personal Website
 
-Welcome to my academic website. This site showcases my research, publications, and professional information.
+[Visit my academic website](https://yueq-516.github.io/) for my [publications](https://yueq-516.github.io/publications/) and [CV](https://yueq-516.github.io/cv/).
 
-## About Me
+I’m a postdoctoral scholar at Lawrence Berkeley National Laboratory, where I work with the ESS-DIVE team on AI readiness and data automation. I completed my Ph.D. in Information Sciences at the University of Pittsburgh in 2026. My dissertation explored how machine learning and large language models can support flood preparedness in urban navigation. My broader research interests include spatial cognition, spatiotemporal modeling, and urban mobility.
 
-I am a PhD candidate in Information Sciences at the University of Pittsburgh. My research focuses on leveraging machine learning and large language models (LLMs) for flood preparedness in urban navigation.
+## Local preview
 
-## Research Interests
+The site is built with Jekyll and hosted on GitHub Pages. With Ruby and Bundler installed, run these commands from the repository root.
 
-- Machine learning for urban mobility
-- Spatial cognition and spatiotemporal modeling
-- Flood preparedness and disaster management
-- Large language models (LLMs) for decision support
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
-## Technical Notes
-
-This site is built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/). 
+Open [http://localhost:4000/](http://localhost:4000/). Restart the server after editing `_config.yml`.
