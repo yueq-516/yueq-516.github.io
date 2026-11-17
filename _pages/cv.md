@@ -9,13 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Current employment
+----------
+* **Postdoctoral Scholar**, *Lawrence Berkeley National Laboratory (LBNL)* (2026–present)
+  * AI readiness and data automation with the [ESS-DIVE team](https://ess-dive.lbl.gov/about/team/)
+  * Mentor: Charuleka Varadharajan
+
 Education
-======
-* Ph.D in Information Sciences, University of Pittsburgh, 2026 (expected)
-  * Dissertation: An AI-driven framework of flood preparedness in urban navigation
-  * Advisors: Rosta Farzan, Xiaowei Jia
-* M.S. in Architectural-engineering-construction-management, Carnegie Mellon University, 2015
-* B.S. in Engineering Management, Tianjin University, 2014
+---------
+* **Ph.D. in Information Sciences**, *University of Pittsburgh* (2026)
+  * Dissertation: [*An AI-driven framework of flood preparedness in urban navigation*]({{ '/files/Doctoral_Dissertation_YueQin.pdf' | relative_url }})
+  * Advisors: Rosta Farzan and Xiaowei Jia
+* **M.S. in Architectural-engineering-construction-management**, *Carnegie Mellon University* (2015)
+* **B.S. in Engineering Management**, *Tianjin University* (2014)
 
 <!-- Work experience
 ======
@@ -44,7 +50,7 @@ Education
 * Skill 3 -->
 
 Publications
-======
+------------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

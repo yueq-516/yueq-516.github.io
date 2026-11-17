@@ -2,12 +2,13 @@
 title: "Evaluating socioeconomic bias in flood adaptation generation with large language models"
 collection: publications
 category: conferences
-type: "Accepted by"
+type: ""
 permalink: /publication/2026-sigspatial-llm-flood-adaptation-bias
-excerpt: 'Accepted short paper for SIGSPATIAL 2026 on evaluating socioeconomic bias in flood adaptation generation with large language models'
+excerpt: 'Short paper for SIGSPATIAL 2026 on evaluating socioeconomic bias in flood adaptation generation with large language models'
 date: 2026-08-17
-venue: 'SIGSPATIAL 2026 (short paper track)'
-citation: 'Yue Qin, Xiaowei Jia, Yiqun Xie, and Rosta Farzan. (2026). "Evaluating socioeconomic bias in flood adaptation generation with large language models." <i>SIGSPATIAL 2026</i>. Accepted short paper.'
+venue: 'SIGSPATIAL 2026 (short paper)'
+paperurl: 'https://drive.google.com/file/d/1jGbf9rZ6pzPmqxlSyXlXEPGaQ83-XDMG/view'
+citation: 'Yue Qin, Xiaowei Jia, Yiqun Xie, and Rosta Farzan. (2026). "Evaluating socioeconomic bias in flood adaptation generation with large language models." <i>SIGSPATIAL 2026</i>. Short paper.'
 ---
 
 Large language models (LLMs) have been increasingly adopted

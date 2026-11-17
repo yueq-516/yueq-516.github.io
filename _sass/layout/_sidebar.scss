@@ -247,6 +247,17 @@
     white-space: nowrap;
   }
 
+  .author__employer {
+    display: flex;
+    align-items: baseline;
+    white-space: normal;
+    overflow-wrap: anywhere;
+
+    i {
+      flex-shrink: 0;
+    }
+  }
+
   a {
     display: block;
     margin-bottom: 5px;
